@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52" width="52" height="52">
+	<title>buttonA</title>
+	<style>
+		.s0 { fill: #a9a9a9 } 
+		.s1 { fill: none;stroke: #808080;stroke-miterlimit:100;stroke-width: 3.2 } 
+		.s2 { fill: #ffffff } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m26 48c-13.3 0-24-9.8-24-22 0-12.2 10.7-22 24-22 13.3 0 24 9.8 24 22 0 12.2-10.7 22-24 22z"/>
+	<path fill-rule="evenodd" class="s1" d="m26 48c-13.3 0-24-9.8-24-22 0-12.2 10.7-22 24-22 13.3 0 24 9.8 24 22 0 12.2-10.7 22-24 22z"/>
+	<path id="K" class="s2" aria-label="K"  d="m20.6 16.4h-2.3v-3.6h6.5v9.1l5.6-9.1h4.5l-6.9 11.4q2 3.6 4 7 2 3.3 4.1 6.8h-4.9l-6.4-10.7v10.7h-4.2z"/>
+</svg>

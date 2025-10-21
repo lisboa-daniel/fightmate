@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media (prefers-color-scheme: dark) {
+
+}
+
+body {
+  color: white;
+  background: var(--background);
+  
+}
+.prevent-select {
+  -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
+}
+
+
+.ch1 {
+  font-size: '1.5rem';
+  line-height: '2rem';
+  font-weight: 800;
+  color: "#ff5419"
+
+}
+
+
+
+@media only screen and (min-width: 768px) {
+  .characterBackground {
+    background-size: auto 625px;
+  }
+}
+
+
+@media only screen and (max-width: 764px) {
+  .characterBackground {
+    background-size: auto 500px;
+  }
+}
+

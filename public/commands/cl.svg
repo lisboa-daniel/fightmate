@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+	<title>image</title>
+	<style>
+		.s0 { fill: #ff4602;stroke: #a7a7b0;stroke-miterlimit:100;stroke-width: 6 } 
+		.s1 { fill: #ffffff } 
+		.s2 { fill: none;stroke: #ffffff;stroke-miterlimit:100;stroke-width: 3 } 
+	</style>
+	<g id="Pasta 1">
+		<path id="Camada 1" fill-rule="evenodd" class="s0" d="m18.7 55.7l-13.7-23.9 13.7-23.8h27.5l13.8 23.8-13.8 23.9z"/>
+		<path id="Camada 2" fill-rule="evenodd" class="s1" d="m19.5 45.9v-3.5h26v3.5z"/>
+		<path id="Camada 1 copy" fill-rule="evenodd" class="s2" d="m20.2 53l-12.2-21.7 12.2-21.7h24.5l12.3 21.7-12.3 21.7z"/>
+		<path id="Camada 3" class="s1" d="m26.6 41.7l-4.5-13.3 9.2-0.1zm0.2-13.4c-1.8 0-3.3-1.4-3.3-3.2 0-1.8 1.5-3.3 3.3-3.3 1.8 0 3.2 1.5 3.2 3.3 0 1.8-1.4 3.2-3.2 3.2z"/>
+		<path id="Camada 3 copy" class="s1" d="m38.6 41.7l-4.5-13.3 9.2-0.1zm0.2-13.4c-1.8 0-3.3-1.4-3.3-3.2 0-1.8 1.5-3.3 3.3-3.3 1.8 0 3.2 1.5 3.2 3.3 0 1.8-1.4 3.2-3.2 3.2z"/>
+	</g>
+</svg>
