@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Fightmate is a web app made for fighting game players.
 
-## Getting Started
+This is a webtool for helping people how play fighting games such as 'Street Fighter' or 'Fatal Fury' to share commands of the game.
+The main tool is a translator, that converts in game language common used by players to icons, this way newer players can also undestand the notation. Also it features export options so it can be used in another contents like videos or posts.
 
-First, run the development server:
+This tool is currently in a WIP state and the main game supported is Fatal Fury City of the Wolves.
+
+## Getting Started to run this tool locally
+
+Install dependencies with your favorite package manager, I did use NPM.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
+Then run the developer server
+```bash
+npm run dev
+
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Technologies Used
+NextJS for rendering SSG frontend with help with React & MUI used for UI componenents.
+Other icons were created using Photopea.
 
-## Learn More
+## Live demo
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Fightmate demo hosted on vercel [Fightmate](https://fightmate-mu.vercel.app/)
