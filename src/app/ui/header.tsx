@@ -73,7 +73,9 @@ export default function Header() {
 
     const page2Go = (href: string) => {
         if (close) close();
-        router.replace(href);
+
+        router.push(href);
+        //router.replace(href);
         
     }
     
